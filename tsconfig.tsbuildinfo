@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/components/ContentTypeSelector.tsx","./src/components/GenerationCard.tsx","./src/components/Icons.tsx","./src/components/SettingsModal.tsx","./src/hooks/useApiKey.ts","./src/hooks/useGenerations.ts","./src/lib/gemini.ts","./src/lib/supabase.ts"],"version":"5.9.3"}
